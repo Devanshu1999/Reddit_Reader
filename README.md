@@ -7,6 +7,7 @@ Add multiple subreddits to your profiles of our choice and each profile will dis
 A very convenient way of getting particular subreddits' information quickly.
 
 \*\*\*SETTING UP DATABASE\*\*\*
+
 This app requires MySQL Workbench to be installed on the machine (Preferrably v8.0).
 
 For the connection, I have used "root" as username and "toor" ass password.
