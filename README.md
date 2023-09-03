@@ -65,7 +65,7 @@ Clone this project via - ```https://github.com/Devanshu1999/Reddit_Reader.git```
 
 This app requires MySQL Workbench to be installed on the machine (Preferrably v8.0). Also install tomcat server.
 
-For the connection, I have used "root" as username and "toor" ass password.
+For the connection, I have used "root" as username and "toor" as password.
 
 *These can be modified from the "persistence-mysql.properties" file present in the resource directory.*
 
